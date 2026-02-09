@@ -16,16 +16,28 @@ Hi 👋, I’m Siranjeevi
 
 🔭 What I’m Working On
 
+🤖 Integrating AI into real-world software products
+
 ⚙️ Java & Spring Boot based backend systems
 
 🌐 Full stack applications using React , Next.js & Node.js and Express.js
 
 🔐 Secure APIs (JWT, role-based access)
 
-🤖 Integrating AI into real-world software products
+🤖 AI Agents & LLM Stack
 
-🛠️ Technologies & Tools
-Frontend
+![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Ollama API Server](https://img.shields.io/badge/Ollama_API_Server-111827?style=for-the-badge)
+![Meta LLaMA 3](https://img.shields.io/badge/Meta_LLaMA_3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![DeepSeek Coder](https://img.shields.io/badge/DeepSeek_Coder-0F172A?style=for-the-badge)
+![Code_LLaMA](https://img.shields.io/badge/Code_LLaMA-4B5563?style=for-the-badge)
+![Hugging_Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-0F766E?style=for-the-badge)
+![Workflow_Automation](https://img.shields.io/badge/Workflow_Automation-0A66C2?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-4B0082?style=for-the-badge)
+
+🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -59,22 +71,3 @@ Frontend
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-📌 Featured Projects
-
-🔐 AI Resume Customizer
-
-Smart resume tailoring based on job descriptions to improve shortlisting
-
-🛒 E-Commerce Backend (Spring Boot)
-
-User & Admin roles, JWT auth, product & order management
-
-📊 Full Stack Dashboard App
-
-React + Node.js + MongoDB with analytics
-
-🧠 AI Code Assistant (In Progress)
-
-Code generation, explanation, bug fixing & suggestions
-
-📊 GitHub Stats
