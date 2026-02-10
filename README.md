@@ -5,7 +5,7 @@ Hi 👋, I’m Siranjeevi
 🧠 Exploring AI-powered products & intelligent automation
 💡 Passionate about clean architecture, performance, and real-world impact
 
-📍 India
+📍 Chenai,India.
 📫 Email: siranjeevi0622@gmail.com
 
 🌐 Portfolio: https://your-portfolio-link
