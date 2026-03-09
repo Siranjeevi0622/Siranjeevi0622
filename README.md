@@ -8,7 +8,7 @@ Hi 👋, I’m Siranjeevi
 📍 Chenai,India.
 📫 Email: siranjeevi0622@gmail.com
 
-🌐 Portfolio: https://your-portfolio-link
+🌐 Portfolio: https://siranjeevi-portfolio.netlify.app/
 
 💼 LinkedIn: https://www.linkedin.com/in/siranjeevi-pl-2b895321b
 
